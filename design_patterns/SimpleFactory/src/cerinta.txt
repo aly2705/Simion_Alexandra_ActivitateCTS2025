@@ -1,0 +1,3 @@
+Tema: Service auto
+Cerinta: Service-ul auto poate inregistra diverse vehicule in sistem pentru a fi bagate in service. Ex: Masini, Motociclete, Tiruri.
+Implementati modulul cu ajutorul caruia se inregistreaza in sistem vehiculele.
