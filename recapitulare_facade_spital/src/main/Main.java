@@ -30,6 +30,5 @@ public class Main {
 
         facadeInternare.verificaPosibilitateInternare(gigel, paturiDisponibile);
         System.out.println();
-
     }
 }
