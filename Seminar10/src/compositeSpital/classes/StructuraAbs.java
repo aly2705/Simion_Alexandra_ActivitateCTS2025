@@ -33,5 +33,4 @@ public abstract class StructuraAbs {
     public abstract void afiseazaDesc(StructuraAbs s, String tab);
     public abstract int calcNrAngajati();
 
-
 }
