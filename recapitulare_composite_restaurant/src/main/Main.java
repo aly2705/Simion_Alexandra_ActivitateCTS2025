@@ -37,6 +37,5 @@ public class Main {
         meniuIntreg.adaugareNod(racoritoare);
 
         meniuIntreg.afiseaza("");
-
     }
 }
