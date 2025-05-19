@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/recapitulare_decorator_spital/recapitulare_decorator_spital.iml" filepath="$PROJECT_DIR$/recapitulare_decorator_spital/recapitulare_decorator_spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapitulare_facade_spital/recapitulare_facade_spital.iml" filepath="$PROJECT_DIR$/recapitulare_facade_spital/recapitulare_facade_spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapitulare_factoryMethod_restaurant/recapitulare_factoryMethod_restaurant.iml" filepath="$PROJECT_DIR$/recapitulare_factoryMethod_restaurant/recapitulare_factoryMethod_restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapitulare_flyweight_restaurant/recapitulare_flyweight_restaurant.iml" filepath="$PROJECT_DIR$/recapitulare_flyweight_restaurant/recapitulare_flyweight_restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapitulare_observer_spital/recapitulare_observer_spital.iml" filepath="$PROJECT_DIR$/recapitulare_observer_spital/recapitulare_observer_spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapitulare_prototype_spital/recapitulare_prototype_spital.iml" filepath="$PROJECT_DIR$/recapitulare_prototype_spital/recapitulare_prototype_spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapitulare_proxy_restaurant/recapitulare_proxy_restaurant.iml" filepath="$PROJECT_DIR$/recapitulare_proxy_restaurant/recapitulare_proxy_restaurant.iml" />
