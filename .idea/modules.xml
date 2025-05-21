@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/design_patterns/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/design_patterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/design_patterns/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_patterns/Observer/Observer.iml" filepath="$PROJECT_DIR$/design_patterns/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/design_patterns/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
