@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/design_patterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/BuilderWithPrototype/BuilderWithPrototype.iml" filepath="$PROJECT_DIR$/design_patterns/BuilderWithPrototype/BuilderWithPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/design_patterns/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_patterns/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/design_patterns/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_patterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/design_patterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
